@@ -11,7 +11,7 @@ No other technology but Laravel is allowed in this project. No Javascript or Jav
 
 No collaboration is allowed. Any attempt to cheat will be penalized with 0 point for this assignment and reported to Academic Affairs for further measures. 
 
-## Cloning and Setting Up the Project
+## Cloning and Setting Up Your Project
 
 Go through following steps:
 
