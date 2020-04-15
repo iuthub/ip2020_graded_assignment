@@ -36,18 +36,7 @@ DB_PASSWORD=
 
 Note, that in order set up this blog on your PC, you must have latest versions of PHP and Composer (http://getcomposer.org/) installed on your computer and they must be accessible from your terminal. You have to add paths to these tools into your PATH environment variable to make them accessible from your terminal.
 
-## Submittion Your Project
-
-Once you finish your project, go through following steps:
-
-1) Open terminal in your project's root directory.
-2) Run `git add .`
-3) Run `git commit -m 'finished all tasks'`
-4) Run `git push -u origin master`
-
-Once you finish above steps, make sure that all your changes are uploaded to this repository.
-
-## Tasks To Complete
+## Completing Tasks
 
 You must complete each task given below:
 
@@ -63,6 +52,17 @@ You must complete each task given below:
 - [ ] Your To-Do app has to show only those tasks which belong to an authenticated user, and should not display or allow the modification of tasks which belong to other users. Use `Gates` to enforce restrictions on making modifications on other users' tasks. 
 
 Once you finish all tasks above, export the current state of your local database into a `dump.sql` file and include it into this folder.
+
+## Submiting Your Project
+
+Once you finish your project, go through following steps:
+
+1) Open terminal in your project's root directory.
+2) Run `git add .`
+3) Run `git commit -m 'finished all tasks'`
+4) Run `git push -u origin master`
+
+Once you finish above steps, make sure that all your changes are uploaded to this repository.
 
 ## Your Mark
 
